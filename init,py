@@ -1,0 +1,13 @@
+class comp:
+    def __init__(self,a,b):
+        self.a=a
+        self.b=b
+
+    def con(self):
+        print("i5,36,35")
+
+con1=comp('i5',16)
+con2=comp('ry',8)
+
+con1.con()
+con2.con()
